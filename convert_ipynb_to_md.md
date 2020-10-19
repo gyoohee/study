@@ -28,6 +28,26 @@ ALTER TABLE table_name ALTER COLUMN column_name TYPE NUMERIC(2,0);
 ALTER TABLE table_name DROP column_name;
 ```
 
+## Code Executed
+
+
+```python
+import glob
+glob.glob("./*.ipynb")
+```
+
+
+
+
+    ['.\\trial_markdown.ipynb']
+
+
+
+
+```python
+
+```
+
 ## Pandas DataFrame
 
 
